@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio03/Ejercicio03.csproj": {}
+  },
+  "projects": {
+    "/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio03/Ejercicio03.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio03/Ejercicio03.csproj",
+        "projectName": "Ejercicio03",
+        "projectPath": "/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio03/Ejercicio03.csproj",
+        "packagesPath": "/Users/ezequielfreire/.nuget/packages/",
+        "outputPath": "/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio03/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ezequielfreire/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

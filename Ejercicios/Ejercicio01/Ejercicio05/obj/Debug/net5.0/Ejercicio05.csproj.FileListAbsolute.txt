@@ -1,0 +1,16 @@
+/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio05/bin/Debug/net5.0/Ejercicio05
+/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio05/bin/Debug/net5.0/Ejercicio05.deps.json
+/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio05/bin/Debug/net5.0/Ejercicio05.runtimeconfig.json
+/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio05/bin/Debug/net5.0/Ejercicio05.runtimeconfig.dev.json
+/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio05/bin/Debug/net5.0/Ejercicio05.dll
+/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio05/bin/Debug/net5.0/Ejercicio05.pdb
+/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio05/obj/Debug/net5.0/Ejercicio05.csproj.AssemblyReference.cache
+/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio05/obj/Debug/net5.0/Ejercicio05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio05/obj/Debug/net5.0/Ejercicio05.AssemblyInfoInputs.cache
+/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio05/obj/Debug/net5.0/Ejercicio05.AssemblyInfo.cs
+/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio05/obj/Debug/net5.0/Ejercicio05.csproj.CoreCompileInputs.cache
+/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio05/obj/Debug/net5.0/Ejercicio05.dll
+/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio05/obj/Debug/net5.0/refint/Ejercicio05.dll
+/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio05/obj/Debug/net5.0/Ejercicio05.pdb
+/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio05/obj/Debug/net5.0/Ejercicio05.genruntimeconfig.cache
+/Users/ezequielfreire/Documents/project/net/EjercitacionClase-2D-Freire-Pamela/Ejercicios/Ejercicio01/Ejercicio05/obj/Debug/net5.0/ref/Ejercicio05.dll
