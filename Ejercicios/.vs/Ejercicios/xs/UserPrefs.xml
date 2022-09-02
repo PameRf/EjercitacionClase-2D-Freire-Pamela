@@ -1,10 +1,16 @@
 ﻿<Properties StartupConfiguration="{5EF5B282-8B7A-4C67-AAFD-2A7871466374}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Clase01.Ejercicio05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Clase01.Ejercicio06 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Clase01.Ejercicio01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Clase01.Ejercicio05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../../../EjerciciosLab2/EjercicioNro04/EjercicioNro04/Program.cs" line="20" column="16" endLine="20" endColumn="22" offsetX="-1" offsetY="-1" expression="numero" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.Clase01.Ejercicio03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Clase01.Ejercicio04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Clase01.Ejercicio02 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Ejercicio01/Ejercicio05/Program.cs">
     <Files>
       <File FileName="Ejercicio01/Ejercicio05/Program.cs" Line="21" Column="1" />
@@ -28,11 +34,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Clase01.Ejercicio03 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Clase01.Ejercicio04 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Clase01.Ejercicio02 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
