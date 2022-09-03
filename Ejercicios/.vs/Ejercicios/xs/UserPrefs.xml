@@ -1,5 +1,5 @@
-﻿<Properties StartupConfiguration="{5EF5B282-8B7A-4C67-AAFD-2A7871466374}|Default">
-  <MonoDevelop.Ide.ItemProperties.Clase01.Ejercicio06 FirstBuild="True" />
+﻿<Properties StartupConfiguration="{61F3C2EF-481A-4DE2-8D1E-4BD6314C7C96}|Default">
+  <MonoDevelop.Ide.ItemProperties.Clase01.Ejercicio06 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Clase01.Ejercicio01 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Clase01.Ejercicio05 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
@@ -34,4 +34,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Clase01.Ejercicio07 FirstBuild="True" />
 </Properties>
